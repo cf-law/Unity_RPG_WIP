@@ -1,6 +1,6 @@
 # Unity_RPG_WIP
 
-This is an in development top down, turn based RPG developed using the Unity engine. This is meant to be a testing ground as well as an exploration of the Unity engine for myself.
+This is an in development top down, turn based RPG developed using the Unity engine. This is meant to be a testing ground as well as an exploration of the Unity engine for myself. This was done following various tutorials as well as helpful articles and guides online, and, as stated before, should be treated as a test of Unity as well as coding using C#, rather than an entirely original product coded from the ground up.
 
 ## Planned features:
 
